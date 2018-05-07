@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7dda1c2c67fd80081171a74bff77aca498c7945b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_c0a3ccb7bc196d16596d103b913c309491eda0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a6e8a14fb7980e0d4ed41bd442cd9858cd8762e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_57119217f36ae0c99016798dc395bd8ac99b2164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2b58931f4e7314980c563a4bf7d6827a9077a6f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_4d36429e3406fa3199301ec8aa50cc22ff02b1b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/bbe94139ab841db94e43845c8d805931a7678150/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_e6e280d0ad6037bfdd0fd3d45b9c8048a0482216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0acd483665fba82475298759ed4dc396c9fc6a58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_37d9feba1003595854d6caa26268b69209142ca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2434337ee706222fdd450ddf586f9c3e3ff34a82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_eed730efcae87b776996bc1a63e1785fd32ccdff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e2acaf3d0456c07f3a848ef249c782a5be69537a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_03f2b067bb5045ce286a21d53403a030b215000c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/540900085093e9fad6bef920e5e8b503514cd458/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_8ce1363adfce9d228d521c92a87872f8b0c0e512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7c29307f8d86ed42f2819ddb257e49b70164570d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_552a16836a961515052d824c4672310b2886c767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/3fb9190caebf72afa3d5954b260d5c5f77acb150/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_2777a9fa20e664c2f66446a739be65f4795d09c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/extended/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_c64c547f13514da225afb6044ffd9bde8d7b88ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5b17a560137138c6bd92e0bbb8fec74f79ab9d2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_1223499dcb7c46aa757852db253923497f5c2a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/1cba7ad444ce984fb96373c531e6027f0f138141/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_8f9d68c21e32bae0586b669ca457c47d8de2452d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ebc0c38ce31d087e7bc3f7684758d5acdfffd733/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/extended/Unduhan/Android-Upload-Image-MySQL-master/app/build/intermediates/pre-dexed/debug/classes_54232eb4df2e0570bf84091c9a2598eae0ac1361.jar" />
+    </item>
+
+</items>
